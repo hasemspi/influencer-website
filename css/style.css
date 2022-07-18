@@ -26,9 +26,10 @@ body{
     list-style: none;
     display: flex;
     margin-top: 0px;
+    padding-left: 0px;
 }
 .navearea ul li {
-    padding-right: 16px;
+    padding-right: 22px;
 }
 .navearea ul li a{
     text-decoration: none;
