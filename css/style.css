@@ -1,3 +1,37 @@
 body{
-    
+    background-color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: #3A3A3A;
+}
+.logo h3{
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.top_header{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 34px;
+}
+}
+.navearea{
+    margin: 0px;
+    padding: 0px;
+}
+.navearea ul{
+    list-style: none;
+    display: flex;
+    margin-top: 0px;
+}
+.navearea ul li {
+    padding-right: 16px;
+}
+.navearea ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
 }
